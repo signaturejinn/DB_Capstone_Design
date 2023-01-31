@@ -78,4 +78,4 @@
 
 ## ⛓️ 구축 과정
 ### 🔗 Git Link
-#### - 
+#### - [Database](https://github.com/signaturejinn/DB_Capstone_Design/tree/main/Database)
